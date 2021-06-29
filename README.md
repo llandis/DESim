@@ -6,7 +6,7 @@ The DESim application provides a graphical user interface (GUI) that represents 
 The DESim tool has four parts:
 1) Documentation in the form of an installation guide, and a user tutorial. 
 2) The frontend graphical user interface
-3) The backend simulator interface
+3) The backend simulator interface 
 4) Various demos showcasing the different capabilities of the tool
 
 The DESim tool requires the ModelSim HDL simuator. Preferably, one of the ModelSim-Intel FPGA editions, which has the Intel FPGA IP Core simulation models built-in.
